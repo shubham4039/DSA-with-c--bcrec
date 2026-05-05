@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,9 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0009-palindrome-number) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
