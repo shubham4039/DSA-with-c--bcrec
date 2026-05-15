@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 ## Math
 |  |
 | ------- |
@@ -112,12 +113,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2104-sum-of-subarray-ranges) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
