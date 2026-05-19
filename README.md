@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0283-move-zeroes) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0059-spiral-matrix-ii) |
+| [0085-maximal-rectangle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
@@ -109,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2104-sum-of-subarray-ranges) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2104-sum-of-subarray-ranges) |
