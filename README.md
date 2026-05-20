@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0704-binary-search) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0907-sum-of-subarray-minimums) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -135,4 +137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
