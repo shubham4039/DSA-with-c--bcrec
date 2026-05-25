@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0595-big-countries) |
