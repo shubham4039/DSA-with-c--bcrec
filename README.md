@@ -198,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0700-search-in-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
