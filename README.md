@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0627-swap-sex-of-employees) |
 | [1527-patients-with-a-condition](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1667-fix-names-in-a-table) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
