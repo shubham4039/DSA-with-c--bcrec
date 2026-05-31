@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0912-sort-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0146-lru-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
