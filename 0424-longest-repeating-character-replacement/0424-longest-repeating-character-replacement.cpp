@@ -10,7 +10,7 @@ public:
             maxFreq = max(maxFreq, hashArr[s[r] - 'A']);
             int changes = (r-l+1)-maxFreq;
 
-            while(changes > k){
+            if(changes > k){
                 hashArr[s[l] - 'A']--;
                 maxFreq=0;
                 l++;
