@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0242-valid-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
