@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0735-asteroid-collision) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -219,11 +221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
