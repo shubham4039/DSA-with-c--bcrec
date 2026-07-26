@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0424-longest-repeating-character-replacement) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0992-subarrays-with-k-different-integers) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0700-search-in-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0700-search-in-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
