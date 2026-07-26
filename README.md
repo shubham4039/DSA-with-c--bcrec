@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0700-search-in-a-binary-search-tree) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0700-search-in-a-binary-search-tree) |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
