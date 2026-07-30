@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0735-asteroid-collision) |
