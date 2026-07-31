@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0503-next-greater-element-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0424-longest-repeating-character-replacement) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0930-binary-subarrays-with-sum) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -102,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -115,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -123,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0992-subarrays-with-k-different-integers) |
 ## Linked List
@@ -319,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0222-count-complete-tree-nodes) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
