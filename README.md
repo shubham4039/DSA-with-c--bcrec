@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0392-is-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
