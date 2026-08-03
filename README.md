@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1004-max-consecutive-ones-iii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0643-maximum-average-subarray-i) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1248-count-number-of-nice-subarrays) |
