@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0907-sum-of-subarray-minimums) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1004-max-consecutive-ones-iii) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1248-count-number-of-nice-subarrays) |
