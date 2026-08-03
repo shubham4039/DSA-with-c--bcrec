@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0739-daily-temperatures) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1004-max-consecutive-ones-iii) |
