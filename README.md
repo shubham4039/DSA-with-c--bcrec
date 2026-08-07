@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0069-sqrtx) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0209-minimum-size-subarray-sum) |
@@ -362,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
