@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0342-power-of-four) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0342-power-of-four) |
