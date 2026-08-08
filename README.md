@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0392-is-subsequence) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0509-fibonacci-number) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0735-asteroid-collision) |
