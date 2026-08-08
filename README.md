@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0342-power-of-four) |
