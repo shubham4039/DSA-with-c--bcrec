@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0485-max-consecutive-ones) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0876-middle-of-the-linked-list) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1004-max-consecutive-ones-iii) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0342-power-of-four) |
 ## Quickselect
 |  |
@@ -401,4 +405,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
