@@ -11,14 +11,7 @@
  */
 class Solution {
 public:
-    int searchIdx(vector<int>& inorder, int left, int right, int val){
-        for(int i = left; i <= right; i++){
-            if(inorder[i] == val){
-                return i;
-            }
-        }
-        return -1;
-    }
+    unordered_map<int, int> mp;
     TreeNode* solve(vector<int>& preorder, vector<int>& inorder, int& preIdx, int left, int right){
         if(left > right){
             return NULL;
@@ -26,7 +19,7 @@ public:
 
         TreeNode* root = new TreeNode(preorder[preIdx]);
 
-        int inIdx = searchIdx(inorder, left, right, preorder[preIdx]);
+        int inIdx = mp[preorder[preIdx]];
         preIdx++;
 
         root->left = solve(preorder, inorder, preIdx, left, inIdx-1);
@@ -35,6 +28,9 @@ public:
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        for(int i = 0; i < inorder.size(); i++){
+            mp[inorder[i]] = i;
+        }
         int preIdx = 0;
         return solve(preorder, inorder, preIdx, 0, inorder.size() - 1);
     }
