@@ -26,34 +26,33 @@ public:
         makeGraph(adj, curr->val, curr->left);
         makeGraph(adj, curr->val, curr->right);
     }
+
+    void dfs(unordered_map<int, vector<int>>& adj,
+            int curr,
+            unordered_set<int>& visited,
+            int time,
+            int& ans) {
+
+        visited.insert(curr);
+
+        ans = max(ans, time);
+
+        for (int neighbour : adj[curr]) {
+            if (visited.find(neighbour) == visited.end()) {
+                dfs(adj, neighbour, visited, time + 1, ans);
+            }
+        }
+    }
+
     int amountOfTime(TreeNode* root, int start) {
         unordered_map<int, vector<int>> adj;
         makeGraph(adj, -1, root);
 
-        queue<int> que;
         unordered_set<int> visited;
+        int ans = 0;
 
-        que.push(start);
-        visited.insert(start);
+        dfs(adj, start, visited, 0, ans);
 
-        int minutes = 0;
-
-        while(!que.empty()){
-            int n = que.size();
-            while(n--){
-                int curr = que.front();
-                que.pop();
-                for(int &neighbour : adj[curr]){
-                    if(visited.find(neighbour) == visited.end()){
-                        que.push(neighbour);
-                        visited.insert(neighbour);
-                    }
-                }
-            }
-            if (!que.empty()) {
-                minutes++;
-            }
-        }
-        return minutes;
+        return ans;
     }
 };
