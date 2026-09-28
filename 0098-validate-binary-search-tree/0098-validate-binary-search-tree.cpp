@@ -11,17 +11,39 @@
  */
 class Solution {
 public:
-    bool solve(TreeNode* root, long long minVal, long long maxVal){
-        if(root == NULL) return true;
-
-        if(root->val <= minVal || root->val >= maxVal){
-            return false;
-        }
-
-        return solve(root->left, minVal, root->val) && solve(root->right, root->val, maxVal);
-    }
-
     bool isValidBST(TreeNode* root) {
-        return solve(root, LLONG_MIN, LLONG_MAX);
+        TreeNode* curr = root;
+        TreeNode* prev = NULL;
+        bool ans = true;
+
+        while(curr != NULL){
+            if(curr->left == NULL){
+                if(prev != NULL && prev->val >= curr->val){
+                    ans = false;
+                }
+                prev = curr;
+                curr = curr->right;
+            }
+            else{
+                TreeNode* pred = curr->left;
+                while(pred->right != NULL && pred->right != curr){
+                    pred = pred->right;
+                }
+                if(pred->right == NULL){
+                    pred->right = curr;
+                    curr = curr->left;
+                }
+                else{
+                    pred->right = NULL;
+
+                    if(prev != NULL && prev->val >= curr->val){
+                        ans = false;
+                    }
+                    prev = curr;
+                    curr = curr->right;
+                }
+            }
+        }
+        return ans;
     }
 };
