@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0084-largest-rectangle-in-histogram) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0392-is-subsequence) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0860-lemonade-change) |
