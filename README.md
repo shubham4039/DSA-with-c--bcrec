@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0503-next-greater-element-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0860-lemonade-change) |
 ## Queue
