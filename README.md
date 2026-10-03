@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1920-build-array-from-permutation](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1920-build-array-from-permutation) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2104-sum-of-subarray-ranges) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0912-sort-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Merge Sort
 |  |
 | ------- |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0860-lemonade-change) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Queue
 |  |
 | ------- |
@@ -469,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1480-running-sum-of-1d-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bit Manipulation
 |  |
 | ------- |
