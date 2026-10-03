@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0059-spiral-matrix-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0435-non-overlapping-intervals) |
