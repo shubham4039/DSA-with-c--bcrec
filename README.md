@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0678-valid-parenthesis-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0901-online-stock-span) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0860-lemonade-change) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Queue
@@ -524,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
