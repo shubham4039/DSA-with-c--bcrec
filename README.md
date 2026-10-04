@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0135-candy](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0209-minimum-size-subarray-sum) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0455-assign-cookies) |
