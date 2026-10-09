@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0713-subarray-product-less-than-k) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1020-number-of-enclaves) |
 ## Simulation
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0662-maximum-width-of-binary-tree) |
