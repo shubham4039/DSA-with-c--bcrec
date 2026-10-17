@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1631-path-with-minimum-effort](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1631-path-with-minimum-effort) |
 | [1920-build-array-from-permutation](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1920-build-array-from-permutation) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2104-sum-of-subarray-ranges) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1208-get-equal-substrings-within-budget) |
+| [1631-path-with-minimum-effort](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0912-sort-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Merge Sort
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -477,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
@@ -578,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -612,4 +619,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/0207-course-schedule) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/shubham4039/DSA-with-c--bcrec/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
